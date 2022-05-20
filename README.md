@@ -1,5 +1,6 @@
 # dumb-sniper
-[![GitHub release]([https://img.shields.io/github/release/wieku/danser-go.svg](https://img.shields.io/github/v/release/Darmanitan/dumb-sniper.svg))](https://github.com/Darmanitan/dumb-sniper/releases/latest) [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![GitHub release](https://img.shields.io/github/v/release/darmanitan/dumb-sniper.svg)](https://github.com/Darmanitan/dumb-sniper/releases/latest)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 ## Information
 dumb-sniper is a sniper written in **Python** and was made with the intent to give the Minecraft playerbase a chance to get their **dream name** without the use of expensive third party sniping services or paid sniper programs. 
 
