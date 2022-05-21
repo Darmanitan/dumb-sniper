@@ -36,7 +36,7 @@ with more coming soon!
 * Download **Python** using your distrobution's package manager
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Ubuntu/Debian: sudo apt install python3 // * Fedora: sudo dnf install python3 // * Arch Linux: sudo pacman -S python3
 
-* Download the latest release from the [releases](https://github.com/Darmanitan/dumb-sniper)
+* Download the latest release from the [releases](https://github.com/Darmanitan/dumb-sniper/releases)
 * Make a folder for sniping and drag the .py file into that folder
 * Open a terminal and make sure you're inside of the directory (verify this by typing ``ls`` to see the contents of your folder)
 * run ``py sniper.py``
